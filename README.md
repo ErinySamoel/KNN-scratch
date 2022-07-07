@@ -1,2 +1,2 @@
 # KNN-scratch
-implemenation of knn from scratch on smile detection from kaggel website
+implemenation of knn from scratch on smile detection dataset from kaggel website
